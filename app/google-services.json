@@ -1,58 +1,35 @@
 {
   "project_info": {
-    "project_number": "168852058639",
-    "firebase_url": "https://myrestaurants-2d839.firebaseio.com",
-    "project_id": "myrestaurants-2d839",
-    "storage_bucket": "myrestaurants-2d839.appspot.com"
+    "project_number": "896357902685",
+    "firebase_url": "https://android-myrestaurants-93784.firebaseio.com",
+    "project_id": "android-myrestaurants-93784",
+    "storage_bucket": "android-myrestaurants-93784.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:168852058639:android:1b8c02b07e2a8a3f",
-        "android_client_info": {
-          "package_name": "com.epicodus.myrestaurantsclass"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "168852058639-f4hi0b663q4q4t00cj4o1lrh8ons98bt.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBSyiZpoKU9EwqmAcQWRIJ8errJQNWp13g"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:168852058639:android:dff6c1b29d00d12f",
+        "mobilesdk_app_id": "1:896357902685:android:dff6c1b29d00d12f",
         "android_client_info": {
           "package_name": "com.epicodus.myrestaurants"
         }
       },
       "oauth_client": [
         {
-          "client_id": "168852058639-f4hi0b663q4q4t00cj4o1lrh8ons98bt.apps.googleusercontent.com",
+          "client_id": "896357902685-hp927iualsfa6unbiu2rlo4t75mbp2qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.epicodus.myrestaurants",
+            "certificate_hash": "79832A1EFD962B87FD966FC2118884E49FC0A998"
+          }
+        },
+        {
+          "client_id": "896357902685-2n13cmgpkrnr181qgoce2pst1opfnav9.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBSyiZpoKU9EwqmAcQWRIJ8errJQNWp13g"
+          "current_key": "AIzaSyCCJmplYDkmfDaSCHD0YB0RJ5viqEfPaQQ"
         }
       ],
       "services": {
@@ -60,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896357902685-2n13cmgpkrnr181qgoce2pst1opfnav9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
