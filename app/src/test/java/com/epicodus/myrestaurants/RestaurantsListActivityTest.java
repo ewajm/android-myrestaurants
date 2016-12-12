@@ -24,11 +24,11 @@ public class RestaurantsListActivityTest {
     private RestaurantsListActivity activity;
     private ListView mRestaurantListView;
 
-    @Before
+/*    @Before
     public void setup() {
         activity = Robolectric.setupActivity(RestaurantsListActivity.class);
         mRestaurantListView = (ListView) activity.findViewById(R.id.listView);
-    }
+    }*/
 
     @Test
     public void restaurantListViewPopulates(){
